@@ -17,10 +17,10 @@
             "Name": "👥 JORDÁN FLOW",
             "TYPE": "premiun",
             "FLAG": "claro.png",
-            "ServerIP": "us1.gamingssh.site",
+            "ServerIP": "",
             "CheckUser": "",
-            "ServerPort": "443",
-            "SSLPort": "443",
+            "ServerPort": "",
+            "SSLPort": "",
             "USER": "gamingssh-amorlite",
             "PASS": ""
         },
@@ -29,11 +29,11 @@
       {
       "Name": "╰┈[☞> 🇩🇴CLARO 5G🇩🇴  📡 ",
       "FLAG": "claro.png",
-      "Payload": "GET http://paquetesyrecargas.claro.com.do/odatos?user=PREPAGO, HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: /us1.gamingssh.site[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "35.175.50.40",
-      "ProxyPort": "443",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Direct"
     }    
   ]
