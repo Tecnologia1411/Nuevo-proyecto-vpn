@@ -1,5 +1,5 @@
 {
-    "Version": "1.0..6",
+    "Version": "1.0..7",
     "ReleaseNotes": "JORDÁN FLOW",
     "Sms": "sms.php",
     "UrlUpdate": "https://raw.githubusercontent.com/Tecnologia1411/Nuevo-proyecto-vpn/main/Server",
@@ -17,7 +17,7 @@
             "Name": "👥 JORDÁN FLOW",
             "TYPE": "premiun",
             "FLAG": "claro.png",
-            "ServerIP": "usa2.hivevpn.tk",
+            "ServerIP": "a-sg.gamingssh.site",
             "CheckUser": "",
             "ServerPort": "443",
             "SSLPort": "80",
