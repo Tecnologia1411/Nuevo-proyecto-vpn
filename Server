@@ -1,5 +1,5 @@
 {
-    "Version": "1.0..4",
+    "Version": "1.0..5",
     "ReleaseNotes": "JORDÁN FLOW",
     "Sms": "sms.php",
     "UrlUpdate": "https://raw.githubusercontent.com/Tecnologia1411/Nuevo-proyecto-vpn/main/Server",
@@ -21,7 +21,7 @@
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "80",
-            "USER": "gamingssh-amorlite",
+            "USER": "hive-vpn.tk-Billy67",
             "PASS": ""
         },
     ],
