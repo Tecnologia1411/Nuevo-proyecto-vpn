@@ -1,5 +1,5 @@
 {
-    "Version": "1.0..3",
+    "Version": "1.0..4",
     "ReleaseNotes": "JORDÁN FLOW",
     "Sms": "sms.php",
     "UrlUpdate": "https://raw.githubusercontent.com/Tecnologia1411/Nuevo-proyecto-vpn/main/Server",
@@ -19,8 +19,8 @@
             "FLAG": "claro.png",
             "ServerIP": "usa2.hivevpn.tk",
             "CheckUser": "",
-            "ServerPort": "443",
-            "SSLPort": "443",
+            "ServerPort": "80",
+            "SSLPort": "80",
             "USER": "gamingssh-amorlite",
             "PASS": ""
         },
@@ -29,11 +29,11 @@
       {
       "Name": "╰┈[☞> 🇩🇴CLARO 5G🇩🇴  📡 ",
       "FLAG": "claro.png",
-      "Payload": "GET http://paquetesyrecargas.claro.com.do/odatos?user=PREPAGO, HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: /us1.gamingssh.site[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET http://paquetesyrecargas.claro.com.do/odatos?user=PREPAGO, HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: /usa2.hivevpn.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "usa2.hivevpn.tk",
-      "ProxyPort": "443",
+      "ProxyPort": "80",
       "Info": "Direct"
     }    
   ]
