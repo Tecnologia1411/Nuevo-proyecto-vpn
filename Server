@@ -1,5 +1,5 @@
 {
-    "Version": "1.0..8",
+    "Version": "1.0..9",
     "ReleaseNotes": "JORDÁN FLOW",
     "Sms": "sms.php",
     "UrlUpdate": "https://raw.githubusercontent.com/Tecnologia1411/Nuevo-proyecto-vpn/main/Server",
@@ -17,12 +17,12 @@
             "Name": "👥 JORDÁN FLOW",
             "TYPE": "premiun",
             "FLAG": "claro.png",
-            "ServerIP": "a-sg.gamingssh.site",
+            "ServerIP": "165.232.140.91",
             "CheckUser": "",
             "ServerPort": "443",
             "SSLPort": "80",
-            "USER": "gamingssh-servidores",
-            "PASS": ""
+            "USER": "3mese",
+            "PASS": "3mese"
         },
     ],
     "Networks": [
@@ -32,7 +32,7 @@
       "Payload": "GET http://paquetesyrecargas.claro.com.do/odatos?user=PREPAGO, HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: /usa2.hivevpn.tk[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "a-sg.gamingssh.site",
+      "ProxyIP": "165.232.140.91",
       "ProxyPort": "443",
       "Info": "Direct"
     }    
